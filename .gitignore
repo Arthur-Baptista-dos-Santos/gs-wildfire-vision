@@ -1,0 +1,19 @@
+# Credenciais - NUNCA subir
+kaggle.json
+
+# Modelos treinados (arquivos grandes)
+*.keras
+*.h5
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
