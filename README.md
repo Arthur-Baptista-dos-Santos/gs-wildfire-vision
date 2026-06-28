@@ -61,7 +61,7 @@ Graficos completos em `curvas_treinamento.png`, `curva_roc.png` e `matriz_confus
 
 | Arquivo | Descricao |
 |---------|---------|
-| `wildfire_monitoramento completo executado.ipynb` | Notebook completo com todas as fases executadas |
+| `wildfire_detection_efficientnetb0.ipynb` | Notebook completo com todas as fases executadas |
 | `curvas_treinamento.png` | Loss e accuracy por epoch |
 | `curva_roc.png` | Curva ROC com AUC |
 | `matriz_confusao.png` | Matriz de confusao normalizada |
@@ -78,7 +78,7 @@ Graficos completos em `curvas_treinamento.png`, `curva_roc.png` e `matriz_confus
 ## `Como executar`
 
 ```python
-# 1. Abra wildfire_monitoramento completo executado.ipynb no Google Colab
+# 1. Abra wildfire_detection_efficientnetb0.ipynb no Google Colab
 # 2. Configure o Kaggle API token para download do dataset
 # 3. Runtime: Change runtime type → GPU (T4)
 # 4. Run all
